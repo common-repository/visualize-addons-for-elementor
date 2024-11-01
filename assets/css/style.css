@@ -1,0 +1,12 @@
+/** Button **/
+.visualize-button {
+	display: inline-block;
+}
+.visualize-align-icon-top,
+.visualize-align-icon-bottom {
+	display: block;
+}
+
+/** OWL CAROUSEL **/
+.visualize-carousel .owl-carousel .owl-nav button.owl-prev {
+  float: right; }
